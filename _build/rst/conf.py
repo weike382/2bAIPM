@@ -5,7 +5,7 @@ sys.path.insert(0, '.')
 
 project = "自学成AI产品经理"
 copyright = ""
-author = "蔡舒起"
+author = "weike"
 release = "0.0.2"
 
 extensions = ["recommonmark","sphinxcontrib.bibtex","sphinxcontrib.rsvgconverter","sphinx.ext.autodoc","sphinx.ext.viewcode"]
@@ -28,7 +28,7 @@ html_theme_options = {
     'primary_color': 'red', # blue
     'accent_color': 'yellow', # deep_orange
     'header_links': [
-        ('Me', 'https://github.com/StevenJokess/', True, 'fab fa-github'),('Discussions', 'https://github.com/StevenJokess/2bPM/discussions', True, 'fab fa-github'),('Repo', 'https://github.com/StevenJokess/2bPM', True, 'fab fa-github'),
+        ('Me', 'https://github.com/weike382/', True, 'fab fa-github'),('Discussions', 'https://github.com/weike382/2bAIPM/discussions', True, 'fab fa-github'),('Repo', 'https://github.com/weike382/2bAIPM', True, 'fab fa-github'),
     ],
     'show_footer': False
 }
