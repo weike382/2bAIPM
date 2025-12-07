@@ -219,7 +219,7 @@ $(document).ready(function () {
 m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
 })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-ga('create', '', 'auto');
+ga('create', 'G-CXESKSXTP5', 'auto');
 ga('send', 'pageview');
 var captureOutboundLink = function(url) {
    ga('send', 'event', 'outbound', 'click', url, {

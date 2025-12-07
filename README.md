@@ -36,4 +36,13 @@ d2lbook2 deploy html
   note         = {A knowledge base for becoming an AI Product Manager.}
 }
 
+@misc{2bPM,
+  author = {Shuqi Cai},
+  title = {2bPM},
+  year = {2020},
+  publisher = {GitHub},
+  journal = {GitHub repository},
+  howpublished = {\url{https://github.com/StevenJokess/2bPM}},
+}
+
 ```
