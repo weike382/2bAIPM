@@ -5,17 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9d6ccd06-7805-4bd9-bdfa-ff350e87c1fd" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_build/github_deploy/_images/AIPM-PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_build/github_deploy/_images/PM_Plan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_build/html/_images/AIPM-PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_build/html/_images/PM_Plan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_build/rst/img/AIPM-PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_build/rst/img/PM_Plan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_images/AIPM-PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/docs/_images/PM_Plan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/AIPM-PM.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/img/PM_Plan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.history/chapter_AI_job/PIP_20211205011116.md" beforeDir="false" afterPath="$PROJECT_DIR$/.history/chapter_AI_job/PIP_20211205011116.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
@@ -23,6 +12,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/AI_critical.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI_critical.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
@@ -74,6 +64,7 @@
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_company/trustbe.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_company/trustbe.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_company/tucao.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_company/tucao.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_company/turingbot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_company/turingbot.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_company/work.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_company/work.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_company/xiaoice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_company/xiaoice.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_company/xiaomi.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_company/xiaomi.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_company/yuncong.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_company/yuncong.ipynb" afterDir="false" />
@@ -111,13 +102,17 @@
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_dive/video.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_dive/video.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_job/CTO.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_job/CTO.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_job/Layoff.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_job/Layoff.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_job/PIP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_job/PIP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_job/WFH.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_job/WFH.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_job/challenge.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_job/challenge.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_job/finance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_job/finance.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_job/index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_job/index.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_job/meeting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_job/meeting.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_job/product_chain.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_job/product_chain.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_job/quit_job.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_job/quit_job.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_job/school.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_job/school.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_job/waibao.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_job/waibao.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_job/work_time.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_job/work_time.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_politics/economics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_politics/economics.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_politics/index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_politics/index.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_AI_politics/intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_AI_politics/intro.ipynb" afterDir="false" />
@@ -148,9 +143,34 @@
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_data_dive/pirate.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_data_dive/pirate.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_data_dive/privacy_computing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_data_dive/privacy_computing.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_data_dive/private.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_data_dive/private.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/AI_deploy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/AI_deploy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/AI_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/AI_test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/AIroadmap.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/AIroadmap.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/DL.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/DL.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/Federated Learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/Federated Learning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/ML.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/ML.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/MLOps.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/MLOps.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/alipay.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/alipay.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/antgroup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/antgroup.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/code.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/company_research.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/company_research.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/develop.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/develop.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/dm-ai.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/dm-ai.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/expert.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/expert.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/feature_engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/feature_engineering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/huidu.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/huidu.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/index.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/jd.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/jd.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/meituan.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/meituan.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/mobile.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/mobile.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/qi_yuan.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/qi_yuan.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/real.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/real.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_dive/zongshen.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_dive/zongshen.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_experience/1Day.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_experience/1Day.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_experience/4years.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_experience/4years.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_experience/Jamin.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_experience/Jamin.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_experience/ant_jiebei.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_experience/ant_jiebei.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_experience/career_path.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_experience/career_path.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_experience/dingding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_experience/dingding.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_experience/diudiu.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_experience/diudiu.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_experience/early_phase.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_experience/early_phase.ipynb" afterDir="false" />
@@ -247,12 +267,14 @@
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_knowledge/tools.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_knowledge/tools.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_knowledge/upgrade_manage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_knowledge/upgrade_manage.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_knowledge/users_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_knowledge/users_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_more/pirate.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_more/pirate.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_project/AI_Finance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_project/AI_Finance.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_project/AI_company.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_project/AI_company.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_project/AI_fit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_project/AI_fit.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_project/AI_hardware.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_project/AI_hardware.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_project/AI_industry_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_project/AI_industry_analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_project/AI_talents.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_project/AI_talents.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_project/APP_experience.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_project/APP_experience.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_project/Data Process.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_project/Data Process.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_project/Model Process.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_project/Model Process.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_project/Roadmap.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_project/Roadmap.ipynb" afterDir="false" />
@@ -264,6 +286,31 @@
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_project/product_experience.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_project/product_experience.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_project/separate_need.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_project/separate_need.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/chapter_project/valuable.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_project/valuable.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/BRD.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/BRD.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/MRD.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/MRD.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/MVP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/MVP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/PRD.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/PRD.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/Valuation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/Valuation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/collaborate.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/collaborate.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/compete_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/compete_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/data_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/data_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/experience_report.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/experience_report.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/flow_chart.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/flow_chart.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/goods_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/goods_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/index.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/industry_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/industry_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/more_users.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/more_users.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/price.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/price.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/priority.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/priority.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/project_manage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/project_manage.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/prototype_design.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/prototype_design.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/research.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/research.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/resource_manage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/resource_manage.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/static_page.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/static_page.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/steps.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/steps.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/tools.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/tools.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/upgrade_manage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/upgrade_manage.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/eval/chapter_skill/users_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/chapter_skill/users_analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/get_started.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/get_started.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/eval/index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/index.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/AI_critical.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/AI_critical.html" afterDir="false" />
@@ -453,6 +500,7 @@
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/business_value.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/business_value.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/cake.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/cake.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/camera.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/camera.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/captial-isms.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/captial-isms.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/career_choose.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/career_choose.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/career_path_vs.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/career_path_vs.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/ceng.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/ceng.jpg" afterDir="false" />
@@ -573,6 +621,7 @@
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/obj_detect_history.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/obj_detect_history.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/operation_in_life_cycle.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/operation_in_life_cycle.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/page2_axure.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/page2_axure.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/page_axure.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/page_axure.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/page_done.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/page_done.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/path.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/path.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/persona.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/persona.png" afterDir="false" />
@@ -626,6 +675,7 @@
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/shining_point.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/shining_point.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/skill_need_tools.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/skill_need_tools.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/slot_vs_entity.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/slot_vs_entity.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/social-isms.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/social-isms.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/solve.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/solve.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/startup_PM.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/startup_PM.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/steps.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/steps.png" afterDir="false" />
@@ -664,7 +714,10 @@
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/yimian_product_contact.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/yimian_product_contact.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/产品设计五要素.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/产品设计五要素.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/产品象限.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/产品象限.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/基金从业.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/基金从业.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/收.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/收.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/证券从业1.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/证券从业1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/github_deploy/_images/证券从业2.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_images/证券从业2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/AI_critical.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/AI_critical.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/AI_pipan.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/AI_pipan.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/README.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/README.rst.txt" afterDir="false" />
@@ -717,6 +770,7 @@
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_company/trustbe.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_company/trustbe.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_company/tucao.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_company/tucao.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_company/turingbot.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_company/turingbot.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_company/work.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_company/work.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_company/xiaoai.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_company/xiaoai.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_company/xiaoice.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_company/xiaoice.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_company/xiaomi.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_company/xiaomi.rst.txt" afterDir="false" />
@@ -767,15 +821,19 @@
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_expert/xie_liang.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_expert/xie_liang.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/CTO.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/CTO.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/Layoff.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/Layoff.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/PIP.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/PIP.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/WFH.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/WFH.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/challenge.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/challenge.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/finance.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/finance.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/index.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/index.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/intern.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/intern.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/meeting.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/meeting.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/product_chain.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/product_chain.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/quit_job.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/quit_job.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/school.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/school.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/waibao.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/waibao.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/wonder.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/wonder.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/work_time.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_job/work_time.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_politics/economics.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_politics/economics.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_politics/index.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_politics/index.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_politics/intro.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/chapter_AI_politics/intro.rst.txt" afterDir="false" />
@@ -1341,6 +1399,7 @@
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_static/sphinx_materialdesign_theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_static/sphinx_materialdesign_theme.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_static/sphinx_materialdesign_theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_static/sphinx_materialdesign_theme.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_static/sphinx_materialdesign_theme.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_static/sphinx_materialdesign_theme.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/github_deploy/_static/underscore-1.13.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_static/underscore-1.13.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_static/underscore-1.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_static/underscore-1.3.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_static/underscore.js" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_static/underscore.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/_static/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_static/webfonts/fa-brands-400.eot" afterDir="false" />
@@ -1710,7 +1769,6 @@
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/objects.inv" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/objects.inv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/github_deploy/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/searchindex.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/.buildinfo" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/.buildinfo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/.doctrees/AI_critical.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/.doctrees/AI_critical.doctree" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/.doctrees/AI_pipan.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/.doctrees/AI_pipan.doctree" afterDir="false" />
@@ -2253,6 +2311,7 @@
       <change beforePath="$PROJECT_DIR$/_build/html/_images/business_value.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/business_value.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/cake.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/cake.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/camera.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/camera.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/html/_images/captial-isms.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/captial-isms.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/career_choose.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/career_choose.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/career_path_vs.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/career_path_vs.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/ceng.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/ceng.jpg" afterDir="false" />
@@ -2373,6 +2432,7 @@
       <change beforePath="$PROJECT_DIR$/_build/html/_images/obj_detect_history.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/obj_detect_history.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/operation_in_life_cycle.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/operation_in_life_cycle.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/page2_axure.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/page2_axure.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/html/_images/page_axure.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/page_axure.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/page_done.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/page_done.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/path.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/path.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/persona.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/persona.png" afterDir="false" />
@@ -2426,6 +2486,7 @@
       <change beforePath="$PROJECT_DIR$/_build/html/_images/shining_point.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/shining_point.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/skill_need_tools.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/skill_need_tools.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/slot_vs_entity.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/slot_vs_entity.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/html/_images/social-isms.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/social-isms.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/solve.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/solve.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/startup_PM.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/startup_PM.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/steps.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/steps.png" afterDir="false" />
@@ -2464,7 +2525,10 @@
       <change beforePath="$PROJECT_DIR$/_build/html/_images/yimian_product_contact.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/yimian_product_contact.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/产品设计五要素.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/产品设计五要素.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/产品象限.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/产品象限.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/html/_images/基金从业.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/基金从业.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/收.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/收.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/html/_images/证券从业1.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/证券从业1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/html/_images/证券从业2.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_images/证券从业2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/AI_critical.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/AI_critical.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/AI_pipan.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/AI_pipan.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/README.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/README.rst.txt" afterDir="false" />
@@ -2517,6 +2581,7 @@
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_company/trustbe.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_company/trustbe.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_company/tucao.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_company/tucao.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_company/turingbot.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_company/turingbot.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_company/work.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_company/work.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_company/xiaoai.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_company/xiaoai.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_company/xiaoice.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_company/xiaoice.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_company/xiaomi.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_company/xiaomi.rst.txt" afterDir="false" />
@@ -2567,15 +2632,19 @@
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_expert/xie_liang.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_expert/xie_liang.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/CTO.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/CTO.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/Layoff.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/Layoff.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/PIP.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/PIP.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/WFH.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/WFH.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/challenge.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/challenge.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/finance.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/finance.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/index.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/index.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/intern.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/intern.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/meeting.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/meeting.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/product_chain.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/product_chain.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/quit_job.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/quit_job.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/school.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/school.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/waibao.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/waibao.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/wonder.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/wonder.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/work_time.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_job/work_time.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_politics/economics.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_politics/economics.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_politics/index.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_politics/index.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_politics/intro.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/chapter_AI_politics/intro.rst.txt" afterDir="false" />
@@ -3141,6 +3210,7 @@
       <change beforePath="$PROJECT_DIR$/_build/html/_static/sphinx_materialdesign_theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_static/sphinx_materialdesign_theme.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_static/sphinx_materialdesign_theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_static/sphinx_materialdesign_theme.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_static/sphinx_materialdesign_theme.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_static/sphinx_materialdesign_theme.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/html/_static/underscore-1.13.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_static/underscore-1.13.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_static/underscore-1.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_static/underscore-1.3.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_static/underscore.js" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_static/underscore.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_static/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_static/webfonts/fa-brands-400.eot" afterDir="false" />
@@ -3510,7 +3580,6 @@
       <change beforePath="$PROJECT_DIR$/_build/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/objects.inv" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/objects.inv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/searchindex.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/AI_critical.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/AI_critical.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/README.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/README.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/TODO.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/TODO.ipynb" afterDir="false" />
@@ -3558,6 +3627,7 @@
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_company/trustbe.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_company/trustbe.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_company/tucao.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_company/tucao.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_company/turingbot.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_company/turingbot.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_company/work.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_company/work.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_company/xiaoice.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_company/xiaoice.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_company/xiaomi.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_company/xiaomi.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_company/yuncong.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_company/yuncong.ipynb" afterDir="false" />
@@ -3595,13 +3665,17 @@
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_dive/video.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_dive/video.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/CTO.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/CTO.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/Layoff.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/Layoff.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/PIP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/PIP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/WFH.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/WFH.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/challenge.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/challenge.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/finance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/finance.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/index.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/meeting.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/meeting.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/product_chain.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/product_chain.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/quit_job.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/quit_job.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/school.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/school.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/waibao.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/waibao.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/work_time.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_job/work_time.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_politics/economics.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_politics/economics.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_politics/index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_politics/index.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_AI_politics/intro.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_AI_politics/intro.ipynb" afterDir="false" />
@@ -3632,9 +3706,34 @@
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_data_dive/pirate.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_data_dive/pirate.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_data_dive/privacy_computing.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_data_dive/privacy_computing.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_data_dive/private.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_data_dive/private.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/AI_deploy.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/AI_deploy.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/AI_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/AI_test.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/AIroadmap.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/AIroadmap.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/DL.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/DL.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/Federated Learning.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/Federated Learning.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/ML.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/ML.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/MLOps.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/MLOps.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/alipay.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/alipay.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/antgroup.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/antgroup.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/code.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/code.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/company_research.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/company_research.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/develop.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/develop.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/dm-ai.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/dm-ai.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/expert.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/expert.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/feature_engineering.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/feature_engineering.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/huidu.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/huidu.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/index.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/jd.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/jd.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/meituan.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/meituan.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/mobile.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/mobile.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/qi_yuan.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/qi_yuan.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/real.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/real.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_dive/zongshen.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_dive/zongshen.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_experience/1Day.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_experience/1Day.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_experience/4years.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_experience/4years.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_experience/Jamin.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_experience/Jamin.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_experience/ant_jiebei.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_experience/ant_jiebei.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_experience/career_path.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_experience/career_path.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_experience/dingding.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_experience/dingding.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_experience/diudiu.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_experience/diudiu.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_experience/early_phase.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_experience/early_phase.ipynb" afterDir="false" />
@@ -3731,12 +3830,14 @@
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_knowledge/tools.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_knowledge/tools.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_knowledge/upgrade_manage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_knowledge/upgrade_manage.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_knowledge/users_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_knowledge/users_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_more/pirate.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_more/pirate.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_project/AI_Finance.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_project/AI_Finance.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_project/AI_company.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_project/AI_company.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_project/AI_fit.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_project/AI_fit.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_project/AI_hardware.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_project/AI_hardware.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_project/AI_industry_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_project/AI_industry_analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_project/AI_talents.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_project/AI_talents.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_project/APP_experience.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_project/APP_experience.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_project/Data Process.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_project/Data Process.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_project/Model Process.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_project/Model Process.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_project/Roadmap.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_project/Roadmap.ipynb" afterDir="false" />
@@ -3748,6 +3849,31 @@
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_project/product_experience.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_project/product_experience.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_project/separate_need.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_project/separate_need.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_project/valuable.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_project/valuable.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/BRD.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/BRD.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/MRD.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/MRD.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/MVP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/MVP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/PRD.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/PRD.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/Valuation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/Valuation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/collaborate.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/collaborate.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/compete_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/compete_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/data_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/data_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/experience_report.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/experience_report.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/flow_chart.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/flow_chart.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/goods_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/goods_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/index.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/industry_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/industry_analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/more_users.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/more_users.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/price.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/price.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/priority.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/priority.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/project_manage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/project_manage.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/prototype_design.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/prototype_design.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/research.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/research.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/resource_manage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/resource_manage.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/static_page.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/static_page.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/steps.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/steps.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/tools.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/tools.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/upgrade_manage.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/upgrade_manage.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/ipynb/chapter_skill/users_analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/chapter_skill/users_analysis.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/get_started.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/get_started.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/ipynb/index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/index.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/pdf/+AI+.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/pdf/+AI+.png" afterDir="false" />
@@ -4373,6 +4499,7 @@
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_company/trustbe.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_company/trustbe.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_company/tucao.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_company/tucao.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_company/turingbot.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_company/turingbot.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_company/work.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_company/work.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_company/xiaoice.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_company/xiaoice.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_company/xiaomi.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_company/xiaomi.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_company/yuncong.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_company/yuncong.rst" afterDir="false" />
@@ -4410,13 +4537,17 @@
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_dive/video.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_dive/video.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_job/CTO.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_job/CTO.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_job/Layoff.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_job/Layoff.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_job/PIP.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_job/PIP.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_job/WFH.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_job/WFH.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_job/challenge.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_job/challenge.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_job/finance.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_job/finance.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_job/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_job/index.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_job/meeting.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_job/meeting.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_job/product_chain.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_job/product_chain.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_job/quit_job.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_job/quit_job.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_job/school.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_job/school.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_job/waibao.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_job/waibao.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_job/work_time.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_job/work_time.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_politics/economics.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_politics/economics.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_politics/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_politics/index.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_AI_politics/intro.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_AI_politics/intro.rst" afterDir="false" />
@@ -4447,9 +4578,34 @@
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_data_dive/pirate.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_data_dive/pirate.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_data_dive/privacy_computing.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_data_dive/privacy_computing.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_data_dive/private.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_data_dive/private.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/AI_deploy.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/AI_deploy.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/AI_test.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/AI_test.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/AIroadmap.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/AIroadmap.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/DL.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/DL.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/Federated Learning.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/Federated Learning.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/ML.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/ML.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/MLOps.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/MLOps.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/alipay.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/alipay.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/antgroup.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/antgroup.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/code.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/code.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/company_research.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/company_research.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/develop.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/develop.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/dm-ai.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/dm-ai.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/expert.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/expert.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/feature_engineering.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/feature_engineering.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/huidu.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/huidu.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/jd.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/jd.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/meituan.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/meituan.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/mobile.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/mobile.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/qi_yuan.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/qi_yuan.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/real.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/real.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_dive/zongshen.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_dive/zongshen.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_experience/1Day.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_experience/1Day.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_experience/4years.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_experience/4years.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_experience/Jamin.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_experience/Jamin.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_experience/ant_jiebei.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_experience/ant_jiebei.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_experience/career_path.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_experience/career_path.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_experience/dingding.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_experience/dingding.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_experience/diudiu.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_experience/diudiu.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_experience/early_phase.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_experience/early_phase.rst" afterDir="false" />
@@ -4546,12 +4702,14 @@
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_knowledge/tools.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_knowledge/tools.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_knowledge/upgrade_manage.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_knowledge/upgrade_manage.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_knowledge/users_analysis.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_knowledge/users_analysis.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_more/pirate.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_more/pirate.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_project/AI_Finance.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_project/AI_Finance.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_project/AI_company.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_project/AI_company.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_project/AI_fit.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_project/AI_fit.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_project/AI_hardware.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_project/AI_hardware.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_project/AI_industry_analysis.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_project/AI_industry_analysis.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_project/AI_talents.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_project/AI_talents.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_project/APP_experience.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_project/APP_experience.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_project/Data Process.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_project/Data Process.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_project/Model Process.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_project/Model Process.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_project/Roadmap.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_project/Roadmap.rst" afterDir="false" />
@@ -4563,6 +4721,31 @@
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_project/product_experience.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_project/product_experience.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_project/separate_need.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_project/separate_need.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/chapter_project/valuable.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_project/valuable.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/BRD.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/BRD.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/MRD.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/MRD.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/MVP.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/MVP.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/PRD.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/PRD.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/Valuation.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/Valuation.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/collaborate.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/collaborate.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/compete_analysis.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/compete_analysis.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/data_analysis.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/data_analysis.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/experience_report.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/experience_report.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/flow_chart.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/flow_chart.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/goods_analysis.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/goods_analysis.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/index.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/industry_analysis.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/industry_analysis.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/more_users.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/more_users.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/price.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/price.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/priority.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/priority.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/project_manage.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/project_manage.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/prototype_design.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/prototype_design.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/research.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/research.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/resource_manage.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/resource_manage.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/static_page.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/static_page.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/steps.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/steps.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/tools.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/tools.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/upgrade_manage.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/upgrade_manage.rst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/chapter_skill/users_analysis.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/chapter_skill/users_analysis.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/conf.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/get_started.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/get_started.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/+AI+.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/+AI+.png" afterDir="false" />
@@ -4580,6 +4763,7 @@
       <change beforePath="$PROJECT_DIR$/_build/rst/img/AI+finance_app.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/AI+finance_app.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/AI-100-startup-2020.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/AI-100-startup-2020.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/AI.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/AI.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/img/AIPM-PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/AIPM-PM.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/AIPM_ability.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/AIPM_ability.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/AIPM_env.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/AIPM_env.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/AIPM_vs_PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/AIPM_vs_PM.png" afterDir="false" />
@@ -4696,6 +4880,7 @@
       <change beforePath="$PROJECT_DIR$/_build/rst/img/PLC_do.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/PLC_do.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/PM.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/PM.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/PM_Internet_VS_hardware.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/PM_Internet_VS_hardware.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_build/rst/img/PM_Plan.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/PM_Plan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/PM_ability.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/PM_ability.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/PM_ability2.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/PM_ability2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/PM_ability_upgrade.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/PM_ability_upgrade.png" afterDir="false" />
@@ -5473,6 +5658,7 @@
       <change beforePath="$PROJECT_DIR$/docs/_images/business_value.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/business_value.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/cake.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/cake.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/camera.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/camera.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_images/captial-isms.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/captial-isms.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/career_choose.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/career_choose.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/career_path_vs.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/career_path_vs.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/ceng.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/ceng.jpg" afterDir="false" />
@@ -5593,6 +5779,7 @@
       <change beforePath="$PROJECT_DIR$/docs/_images/obj_detect_history.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/obj_detect_history.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/operation_in_life_cycle.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/operation_in_life_cycle.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/page2_axure.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/page2_axure.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_images/page_axure.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/page_axure.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/page_done.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/page_done.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/path.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/path.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/persona.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/persona.png" afterDir="false" />
@@ -5646,6 +5833,7 @@
       <change beforePath="$PROJECT_DIR$/docs/_images/shining_point.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/shining_point.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/skill_need_tools.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/skill_need_tools.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/slot_vs_entity.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/slot_vs_entity.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_images/social-isms.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/social-isms.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/solve.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/solve.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/startup_PM.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/startup_PM.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/steps.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/steps.png" afterDir="false" />
@@ -5684,7 +5872,10 @@
       <change beforePath="$PROJECT_DIR$/docs/_images/yimian_product_contact.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/yimian_product_contact.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/产品设计五要素.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/产品设计五要素.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/产品象限.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/产品象限.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_images/基金从业.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/基金从业.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_images/收.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/收.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_images/证券从业1.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/证券从业1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_images/证券从业2.png" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_images/证券从业2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/AI_critical.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/AI_critical.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/AI_pipan.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/AI_pipan.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/README.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/README.rst.txt" afterDir="false" />
@@ -5737,6 +5928,7 @@
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_company/trustbe.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_company/trustbe.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_company/tucao.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_company/tucao.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_company/turingbot.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_company/turingbot.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_company/work.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_company/work.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_company/xiaoai.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_company/xiaoai.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_company/xiaoice.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_company/xiaoice.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_company/xiaomi.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_company/xiaomi.rst.txt" afterDir="false" />
@@ -5787,15 +5979,19 @@
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_expert/xie_liang.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_expert/xie_liang.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/CTO.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/CTO.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/Layoff.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/Layoff.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/PIP.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/PIP.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/WFH.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/WFH.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/challenge.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/challenge.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/finance.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/finance.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/index.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/index.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/intern.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/intern.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/meeting.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/meeting.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/product_chain.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/product_chain.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/quit_job.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/quit_job.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/school.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/school.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/waibao.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/waibao.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/wonder.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/wonder.rst.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/work_time.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_job/work_time.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_politics/economics.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_politics/economics.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_politics/index.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_politics/index.rst.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_sources/chapter_AI_politics/intro.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_sources/chapter_AI_politics/intro.rst.txt" afterDir="false" />
@@ -6361,6 +6557,7 @@
       <change beforePath="$PROJECT_DIR$/docs/_static/sphinx_materialdesign_theme.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_static/sphinx_materialdesign_theme.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_static/sphinx_materialdesign_theme.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_static/sphinx_materialdesign_theme.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_static/sphinx_materialdesign_theme.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_static/sphinx_materialdesign_theme.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/_static/underscore-1.13.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_static/underscore-1.13.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_static/underscore-1.3.1.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_static/underscore-1.3.1.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_static/underscore.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_static/underscore.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docs/_static/webfonts/fa-brands-400.eot" beforeDir="false" afterPath="$PROJECT_DIR$/docs/_static/webfonts/fa-brands-400.eot" afterDir="false" />
@@ -6747,6 +6944,7 @@
       <change beforePath="$PROJECT_DIR$/img/AI+finance_app.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/AI+finance_app.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/AI-100-startup-2020.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/AI-100-startup-2020.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/AI.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/AI.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/AIPM-PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/AIPM-PM.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/AIPM_ability.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/AIPM_ability.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/AIPM_env.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/AIPM_env.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/AIPM_vs_PM.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/AIPM_vs_PM.png" afterDir="false" />
@@ -6863,6 +7061,7 @@
       <change beforePath="$PROJECT_DIR$/img/PLC_do.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/PLC_do.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/PM.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/PM.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/PM_Internet_VS_hardware.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/PM_Internet_VS_hardware.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/PM_Plan.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/PM_Plan.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/PM_ability.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/PM_ability.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/PM_ability2.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/PM_ability2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/img/PM_ability_upgrade.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/PM_ability_upgrade.png" afterDir="false" />
