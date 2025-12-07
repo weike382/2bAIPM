@@ -39,7 +39,7 @@ html_favicon = ''
 html_logo = ''
 
 latex_documents = [
-    (master_doc, "2bPM.tex", "自学成AI产品经理",
+    (master_doc, "2bAIPM.tex", "自学成AI产品经理",
      author, 'manual'),
 ]
 
