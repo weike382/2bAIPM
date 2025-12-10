@@ -17,49 +17,7 @@
       <change beforePath="$PROJECT_DIR$/AI_critical.md" beforeDir="false" afterPath="$PROJECT_DIR$/AI_critical.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/TODO.md" beforeDir="false" afterPath="$PROJECT_DIR$/TODO.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/eval/get_started.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/get_started.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/eval/index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/eval/index.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/AI_critical.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/AI_critical.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/get_started.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/get_started.rst.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/_sources/index.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/_sources/index.rst.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/chapter_AI+Finance/FinTech.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/chapter_AI+Finance/FinTech.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/chapter_AI+Finance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/chapter_AI+Finance/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/chapter_AI_company/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/chapter_AI_company/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/chapter_AI_company/nvidia.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/chapter_AI_company/nvidia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/chapter_AI_company/xiaoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/chapter_AI_company/xiaoice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/chapter_AI_dive/Speech.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/chapter_AI_dive/Speech.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/chapter_AI_dive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/chapter_AI_dive/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/chapter_skill/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/chapter_skill/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/genindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/genindex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/get_started.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/get_started.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/objects.inv" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/objects.inv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/github_deploy/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/_build/github_deploy/searchindex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/.doctrees/environment.pickle" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/.doctrees/environment.pickle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/.doctrees/get_started.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/.doctrees/get_started.doctree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/.doctrees/index.doctree" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/.doctrees/index.doctree" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/AI_critical.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/AI_critical.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/html/_images/ML_Lifecycle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/_sources/get_started.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/get_started.rst.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/_sources/index.rst.txt" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/_sources/index.rst.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/chapter_AI+Finance/FinTech.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/chapter_AI+Finance/FinTech.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/chapter_AI+Finance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/chapter_AI+Finance/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/chapter_AI_company/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/chapter_AI_company/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/chapter_AI_company/nvidia.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/chapter_AI_company/nvidia.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/chapter_AI_company/xiaoice.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/chapter_AI_company/xiaoice.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/chapter_AI_dive/Speech.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/chapter_AI_dive/Speech.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/chapter_AI_dive/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/chapter_AI_dive/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/chapter_skill/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/chapter_skill/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/genindex.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/genindex.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/get_started.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/get_started.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/objects.inv" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/objects.inv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/search.html" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/search.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/html/searchindex.js" beforeDir="false" afterPath="$PROJECT_DIR$/_build/html/searchindex.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/ipynb/get_started.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/get_started.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/ipynb/index.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/_build/ipynb/index.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/rst/get_started.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/get_started.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/+AI+.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/+AI+.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/0_1_∞.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/0_1_∞.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/2020_AI.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/2020_AI.png" afterDir="false" />
@@ -489,7 +447,6 @@
       <change beforePath="$PROJECT_DIR$/_build/rst/img/证券从业1.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/证券从业1.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/证券从业2.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/证券从业2.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_build/rst/img/项目.png" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/img/项目.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_build/rst/index.rst" beforeDir="false" afterPath="$PROJECT_DIR$/_build/rst/index.rst" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_AI+Finance/AI_Finance.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_AI+Finance/AI_Finance.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_AI+Finance/AI_Investment_Research.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_AI+Finance/AI_Investment_Research.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chapter_AI+Finance/AI_Risk_Management.md" beforeDir="false" afterPath="$PROJECT_DIR$/chapter_AI+Finance/AI_Risk_Management.md" afterDir="false" />
