@@ -27,50 +27,6 @@ AI产品经理对接更多的是算法团队，其次才是研发团队，技术
 | **思维模式** |   确定性逻辑   |     统计学规律      |
 ---
 
-<div style="width: 100%; overflow-x: auto; margin: 0 auto;">
-
-<table style="width: 100%; border-collapse: collapse; text-align: center; margin: 0 auto;">
-<thead>
-<tr>
-<th style="padding: 12px 15px; background-color: #f8f9fa; border: 1px solid #dee2e6; font-weight: bold;">维度</th>
-<th style="padding: 12px 15px; background-color: #f8f9fa; border: 1px solid #dee2e6; font-weight: bold;">传统产品经理</th>
-<th style="padding: 12px 15px; background-color: #f8f9fa; border: 1px solid #dee2e6; font-weight: bold;">AI产品经理</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6; font-weight: bold;">输入源</td>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6;">用户需求、市场分析</td>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6;">用户需求、数据、算法能力边界</td>
-</tr>
-<tr>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6; font-weight: bold;">交付物</td>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6;">功能规格、交互设计</td>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6;">算法目标、数据策略、评估体系</td>
-</tr>
-<tr>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6; font-weight: bold;">成功标准</td>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6;">用户增长、商业指标</td>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6;">算法效果、业务指标、用户体验</td>
-</tr>
-<tr>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6; font-weight: bold;">迭代模式</td>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6;">功能模块迭代</td>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6;">数据飞轮迭代</td>
-</tr>
-<tr>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6; font-weight: bold;">思维模式</td>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6;">确定性逻辑</td>
-<td style="padding: 12px 15px; border: 1px solid #dee2e6;">统计学规律</td>
-</tr>
-</tbody>
-</table>
-
-</div>
-
-
----
-
 ### AI技术持续发展
 早期的人工智能只要集中在模拟人类的感知层面，比如计算机视觉（CV）、自然语言处理（NLP）、语音识别（ASR）；以及通过匹配用户需求与信息内容构建连接桥梁，比如搜索、广告、推荐（搜广推）等。
 
