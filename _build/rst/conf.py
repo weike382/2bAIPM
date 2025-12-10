@@ -3,7 +3,7 @@ import sys
 sys.path.insert(0, '..')
 sys.path.insert(0, '.')
 
-project = "自学成AI产品经理"
+project = "通往AI产品经理之路"
 copyright = ""
 author = "weike"
 release = "0.0.2"
@@ -39,7 +39,7 @@ html_favicon = ''
 html_logo = ''
 
 latex_documents = [
-    (master_doc, "2bAIPM.tex", "自学成AI产品经理",
+    (master_doc, "2bAIPM.tex", "通往AI产品经理之路",
      author, 'manual'),
 ]
 
